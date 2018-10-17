@@ -1,0 +1,14 @@
+<WCH v="2">
+  <item n="_mess_in" r="1" s="False" e="True" i="407">
+    <item n="_DST" r="0" s="False" e="False" i="0"/>
+    <item n="_SRC" r="0" s="False" e="False" i="1"/>
+    <item n="_Data" r="0" s="False" e="False" i="2"/>
+    <item n="_CRC" r="0" s="False" e="False" i="3"/>
+  </item>
+  <item n="_send_in" r="0" s="False" e="False" i="403"/>
+  <item n="RCIF_bit" r="0" s="False" e="False" i="114"/>
+  <item n="RCREG" r="0" s="False" e="False" i="39"/>
+  <item n="_verif" r="0" s="False" e="False" i="404"/>
+  <item n="CRC16_crc_L0" r="0" s="False" e="False" i="401"/>
+  <item n="_check_CRC" r="0" s="False" e="False" i="405"/>
+</WCH>

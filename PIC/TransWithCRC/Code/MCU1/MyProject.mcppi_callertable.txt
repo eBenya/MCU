@@ -1,0 +1,17 @@
+main
+	__CC2DW
+		____DoICP
+	init_main
+		UART1_Init
+		PWM2_Init
+	PWM2_Start
+	PWM2_Set_Duty
+		Mul_16X16_U
+	Button
+		Delay_500us
+	send_mess
+		CRC16
+			____DoICP
+		UART1_Write
+	dutyUp
+	dutyDown
